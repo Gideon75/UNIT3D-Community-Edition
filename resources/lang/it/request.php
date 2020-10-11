@@ -43,7 +43,7 @@ return [
     'last-vote'           => 'Ultimo voto',
     'my-requests'         => 'Le mie richieste',
     'no'                  => 'No,',
-    'no-imdb-id'          => 'Tutte le richieste devono contenere un numero IMDB',
+    'no-imdb-id'          => 'Tutte le richieste devono contenere un numero TMDB',
     'no-privileges'       => 'Errore: i tuoi diritti di richiesta sono stati disabilitati',
     'no-privileges-desc'  => 'Se ritieni che ciò sia dovuto a errori, contatta il personale',
     'no-refunds'          => 'Gli scambi BON su creazione, riempimento e taglie sono definitivi! <br> <strong>NESSUN RIMBORSO!</strong>',
